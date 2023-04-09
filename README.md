@@ -49,10 +49,14 @@
 * マルツ　博多営業所
   * 〒812-0034　福岡県福岡市博多区下呉服町5-4
   * 営業時間　10:00~19:00　土日定休
+* 若松通商
+  * 〒101-0021　東京都千代田区外神田1-15-16 秋葉原ラジオ会館5階
+  * 営業時間　10:00~19:00　火土日10:00~18:30
   
 ## オンラインショップ
 * [秋月電子通商](https://akizukidenshi.com/catalog/default.aspx)
 * [千石電商](https://www.sengoku.co.jp/index.php)
 * [マルツオンライン](https://www.marutsu.co.jp/)
 * [スイッチサイエンス](https://www.switch-science.com/)
+* [若松通商](https://wakamatsu.co.jp/biz)
 
