@@ -54,3 +54,5 @@
 * [秋月電子通商](https://akizukidenshi.com/catalog/default.aspx)
 * [千石電商](https://www.sengoku.co.jp/index.php)
 * [マルツオンライン](https://www.marutsu.co.jp/)
+* [スイッチサイエンス](https://www.switch-science.com/)
+
