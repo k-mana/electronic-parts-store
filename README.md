@@ -1,4 +1,4 @@
-# electronic-parts-store
+# 日本の電子部品店(japanese electronic parts stores)
 
 ## 実店舗
 * 秋月電子通商　秋葉原店
